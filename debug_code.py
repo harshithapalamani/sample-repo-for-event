@@ -14,6 +14,7 @@ print(result)
 # The bug is ______________________________________________________________
 # samle change
 # Fixed Code:
+print("sample test")
 
 
 def divide(a, b):
